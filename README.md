@@ -4,3 +4,7 @@ btc 100 hold
 729 alive
 
 
+TT、$NOSTR
+$RGBs
+
+
